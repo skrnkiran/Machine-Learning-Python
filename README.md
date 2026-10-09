@@ -29,8 +29,8 @@ Identification of sub-communities and behavioural clusters<br/>
 
 🎯 Purpose:<br/>
 This project aims to help:<br/>
-Game communities understand how players engage with content<br/>
-Brand managers track positivity and pain points<br/>
-Researchers study online gaming culture and toxicity<br/>
+Gaming communities understand how players engage with content<br/>
+Brand managers to track positivity and pain points<br/>
+Researchers to study online gaming culture and toxicity<br/>
 
 Developers identify areas where community moderation or support is needed
